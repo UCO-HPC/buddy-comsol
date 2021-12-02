@@ -1,0 +1,7 @@
+---
+name: COMSOL Multiphysics
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: "This app will launch a COMSOL Multiphysics GUI on Buddy. You will be able to interact with the COMSOL GUI through a VNC session. Please note that COMSOL may take some time to load within the VNC session. Please note that there is currently on one COMSOL license available for use at a time."
+icon: ''
