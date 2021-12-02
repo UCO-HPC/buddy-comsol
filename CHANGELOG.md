@@ -7,5 +7,5 @@ Changes to this project that result in an increase of the major and or minor rev
 ### Added
 - Initial commit of current code
 
-[Unreleased]: https://github.com/UCO-HPC/buddy_comsol/compare/v2.0.1...devel
+[Unreleased]: https://github.com/UCO-HPC/buddy_comsol/compare/v1.0.0...devel
 [v1.0.0]: https://github.com/UCO-HPC/buddy_comsol/releases/tag/v1.0.0
